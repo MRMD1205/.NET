@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.exe
+C:\Users\Dell\source\repos\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.deps.json
+C:\Users\Dell\source\repos\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.json
+C:\Users\Dell\source\repos\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.dll
+C:\Users\Dell\source\repos\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.pdb
+C:\Users\Dell\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.dll
+C:\Users\Dell\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.pdb
